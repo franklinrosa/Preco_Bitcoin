@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![tela](https://github.com/franklinrosa/Preco_Bitcoin/assets/97204342/fe26d8b9-16ec-4522-9926-0d6c83172cfc)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
